@@ -997,7 +997,7 @@ echo "The for loop is completed“
 ```
 ## OUTPUT
 
- ![77](https://github.com/user-attachments/assets/352b921d-9e6f-491c-a625-08f4181bad6d)
+ ![78](https://github.com/user-attachments/assets/c103e0a5-3476-4c84-8cbd-f17b9bae9e2d)
 
 $ chmod 755 forbreak.sh
  
